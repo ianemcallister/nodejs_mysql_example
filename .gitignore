@@ -1,0 +1,8 @@
+#ignore the dbconfig file
+env.js
+
+#modules to ignore
+node_modules/body-parser/
+node_modules/ejs/
+node_modules/express/
+node_modules/mysql/
